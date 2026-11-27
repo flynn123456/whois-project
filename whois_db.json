@@ -1,0 +1,42 @@
+{
+  "example.com": {
+    "Domain Name": "EXAMPLE.COM",
+    "Registrar": "Example Registrar Inc.",
+    "Creation Date": "2020-01-15",
+    "Expiry Date": "2027-01-15",
+    "Name Server": "NS1.EXAMPLE.COM",
+    "Status": "active"
+  },
+  "uitm.edu.my": {
+    "Domain Name": "UITM.EDU.MY",
+    "Registrar": "MYNIC Berhad",
+    "Creation Date": "1998-06-01",
+    "Expiry Date": "2028-06-01",
+    "Name Server": "NS1.UITM.EDU.MY",
+    "Status": "active"
+  },
+  "google.com": {
+    "Domain Name": "GOOGLE.COM",
+    "Registrar": "MarkMonitor Inc.",
+    "Creation Date": "1997-09-15",
+    "Expiry Date": "2028-09-14",
+    "Name Server": "NS1.GOOGLE.COM",
+    "Status": "active"
+  },
+  "test.local": {
+    "Domain Name": "TEST.LOCAL",
+    "Registrar": "Local Test Registry",
+    "Creation Date": "2024-01-01",
+    "Expiry Date": "2026-01-01",
+    "Name Server": "NS1.TEST.LOCAL",
+    "Status": "reserved"
+  },
+  "myuniversity.edu": {
+    "Domain Name": "MYUNIVERSITY.EDU",
+    "Registrar": "EduRegistry",
+    "Creation Date": "2015-03-20",
+    "Expiry Date": "2026-03-20",
+    "Name Server": "NS1.MYUNIVERSITY.EDU",
+    "Status": "active"
+  }
+}

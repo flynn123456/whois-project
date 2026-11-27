@@ -1,0 +1,13 @@
+2026-11-27 23:03:35 | Connection from 127.0.0.1:51190
+2026-11-27 23:03:35 | Query: 'example.com'
+2026-11-27 23:03:49 | Connection from 127.0.0.1:33688
+2026-11-27 23:03:49 | Query: 'NOTEXIST.com'
+2026-11-27 23:04:00 | Connection from 127.0.0.1:54286
+2026-11-27 23:04:00 | Query: 'uitm.edu.my'
+2026-11-27 23:11:29 | Connection from 172.23.0.1:51989
+2026-11-27 23:17:42 | Connection from 172.23.0.1:52021
+2026-11-27 23:17:52 | Client timed out.
+2026-11-27 23:34:30 | Connection from 172.23.0.1:60440
+2026-11-27 23:34:30 | Query: 'example.com'
+2026-11-27 23:37:07 | Connection from 172.23.0.1:60456
+2026-11-27 23:37:07 | Query: 'example.com'
