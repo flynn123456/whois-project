@@ -1,9 +1,11 @@
 WHOIS Protocol Implementation (ITT440 Network Programming)
 
-Student Name: Amir Hamzah Bin Mohd Hadzir
-Student ID: 2025919913
-Protocol: WHOIS (RFC 3912)
-Port: 43 (Standard) / 4300 (Development)
+- Student Name: Amir Hamzah Bin Mohd Hadzir
+- Student ID: 2025919913
+- Protocol: WHOIS (RFC 3912)
+- Port: 43 (Standard) / 4300 (Development)
+
+
 
 Project Overview
 
